@@ -23,7 +23,7 @@ public class Category {
     int id;
 
     String name;
-
+    String name1;
     @Transient
     List<Product> products;
     @Transient
